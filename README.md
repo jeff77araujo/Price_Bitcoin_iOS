@@ -1,4 +1,4 @@
 # Price_Bitcoin_iOS
-App que consome API &lt;a href="https://www.blockchain.com/pt/api">Blockchain&lt</a> e mostra o valor do Bitcoin
+App que consome API <a href="https://www.blockchain.com/pt/api">Blockchain</a> e mostra o valor do Bitcoin
 
-<img src="" alt="Minha Figura">
+<img src="https://github.com/jeff77araujo/Price_Bitcoin_iOS/blob/main/Price%20Bitcoin/print-price-bitcoin.png" alt="Minha Figura">
